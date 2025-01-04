@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/8901671.jpg)].
+![MasterHead](https://wallpaperaccess.com/full/8901671.jpg).
 <h1 align="center">Hi 👋, I'm Bhavesh Parmar</h1>
 <h3 align="center">A passionate frontend developer from Ahmedabad</h3>
 <img align="right" alt="coding" width="400" src="https://verisoft.ai/wp-content/uploads/2022/05/programmer-animation.gif">
