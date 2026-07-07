@@ -91,14 +91,14 @@ shipping products that are genuinely usable, not just functional.
 
 Full-stack task management application with task boards, groups, and drag-and-drop task organization, built end-to-end on the MERN stack.
 
-| Aspect          | Details                                                                 |
-| --------------- | ----------------------------------------------------------------------- |
-| **Stack**       | React.js, Node.js, Express.js, MongoDB, @dnd-kit                        |
-| **Scale**       | Multi-user boards with grouped task collections                         |
-| **Performance** | REST APIs designed for efficient CRUD and low-latency board updates     |
-| **Security**    | JWT Authentication with protected routes for login and session handling |
-| **Impact**      | Streamlined task organization workflow with intuitive drag-and-drop UX  |
-| **Repository**  | [github.com/bhaveshparmar](https://github.com/bhaveshpa1234)            |
+| Aspect          | Details                                                                      |
+| --------------- | ---------------------------------------------------------------------------- |
+| **Stack**       | React.js, Node.js, Express.js, MongoDB, @dnd-kit                             |
+| **Scale**       | Multi-user boards with grouped task collections                              |
+| **Performance** | REST APIs designed for efficient CRUD and low-latency board updates          |
+| **Security**    | JWT Authentication with protected routes for login and session handling      |
+| **Impact**      | Streamlined task organization workflow with intuitive drag-and-drop UX       |
+| **Repository**  | [github.com/bhaveshparmar](https://github.com/bhaveshpa1234/TaskPilot-MERN-) |
 
 Built secure REST APIs using Node.js and Express.js, with MongoDB collections modeled for users, tasks, and groups — ensuring clean frontend-backend integration throughout.
 
@@ -110,14 +110,14 @@ Built secure REST APIs using Node.js and Express.js, with MongoDB collections mo
 
 A parallel implementation of the task management system rebuilt on Django REST Framework with a MySQL data layer, exploring the same product with a Python-based backend.
 
-| Aspect          | Details                                                                       |
-| --------------- | ----------------------------------------------------------------------------- |
-| **Stack**       | Django REST Framework, React.js, MySQL                                        |
-| **Scale**       | Full user auth flow with task creation and status tracking                    |
-| **Performance** | REST endpoints for task CRUD and status updates                               |
-| **Security**    | JWT-based authentication for registration, login, and password management     |
-| **Impact**      | Demonstrated cross-stack versatility — same product, two backend philosophies |
-| **Repository**  | [github.com/bhaveshparmar](https://github.com/bhaveshpa1234)                  |
+| Aspect          | Details                                                                            |
+| --------------- | ---------------------------------------------------------------------------------- |
+| **Stack**       | Django REST Framework, React.js, MySQL                                             |
+| **Scale**       | Full user auth flow with task creation and status tracking                         |
+| **Performance** | REST endpoints for task CRUD and status updates                                    |
+| **Security**    | JWT-based authentication for registration, login, and password management          |
+| **Impact**      | Demonstrated cross-stack versatility — same product, two backend philosophies      |
+| **Repository**  | [github.com/bhaveshparmar](https://github.com/bhaveshpa1234/TaskManagement_System) |
 
 Combined Django REST Framework APIs with a Tailwind CSS-driven React frontend, including drag-and-drop task organization and full authentication lifecycle.
 
@@ -136,7 +136,7 @@ Full-stack book management application with authentication, protected routes, an
 | **Performance** | REST APIs for adding, updating, viewing, and deleting records            |
 | **Security**    | Session management and protected routes via Context API and React Router |
 | **Impact**      | Polished dark-mode UI improving usability across devices                 |
-| **Repository**  | [github.com/bhaveshparmar](https://github.com/bhaveshpa1234)             |
+| **Repository**  | [github.com/bhaveshparmar](https://github.com/bhaveshpa1234/BookApp)     |
 
 </details>
 
@@ -146,14 +146,14 @@ Full-stack book management application with authentication, protected routes, an
 
 A Django-powered web application for real-time spam message classification using classical machine learning.
 
-| Aspect          | Details                                                           |
-| --------------- | ----------------------------------------------------------------- |
-| **Stack**       | Python, Django, Pandas, Naive Bayes                               |
-| **Scale**       | Real-time single-message classification                           |
-| **Performance** | Lightweight model integration for instant Spam/Ham prediction     |
-| **Security**    | Server-side model inference within Django backend                 |
-| **Impact**      | Practical entry point into applied ML within a full-stack product |
-| **Repository**  | [github.com/bhaveshparmar](https://github.com/bhaveshpa1234)      |
+| Aspect          | Details                                                                        |
+| --------------- | ------------------------------------------------------------------------------ |
+| **Stack**       | Python, Django, Pandas, Naive Bayes                                            |
+| **Scale**       | Real-time single-message classification                                        |
+| **Performance** | Lightweight model integration for instant Spam/Ham prediction                  |
+| **Security**    | Server-side model inference within Django backend                              |
+| **Impact**      | Practical entry point into applied ML within a full-stack product              |
+| **Repository**  | [github.com/bhaveshparmar](https://github.com/bhaveshpa1234/SmartSpamDetector) |
 
 Trained and tested a Naive Bayes classifier for spam detection, then integrated it directly into the Django backend behind a simple, user-friendly interface.
 
@@ -185,11 +185,11 @@ Contributed across the stack during a full-stack development training engagement
 
 <div align="center">
 
-| Recognition                 | Details                           |
-| --------------------------- | --------------------------------- |
-| Aptitude Test Certification | Internship Studio, 2024           |
-| React.js Certification      | Great Learning Academy, 2024      |
-| Full Stack Internship       | Fxisai — Remote, 2025             |
+| Recognition                 | Details                                |
+| --------------------------- | -------------------------------------- |
+| Aptitude Test Certification | Internship Studio, 2024                |
+| React.js Certification      | Great Learning Academy, 2024           |
+| Full Stack Internship       | Fxisai — Remote, 2025                  |
 | Academic Standing           | M.Sc. Information Technology Completed |
 
 </div>
@@ -219,17 +219,12 @@ Contributed across the stack during a full-stack development training engagement
 ⟡ GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhaveshpa1234&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E0D6FF&border_color=6a0dad"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=bhaveshpa1234&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E0D6FF&currStreakNum=E0D6FF&sideNums=E0D6FF&dates=6a6a8a"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshpa1234&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E0D6FF&border_color=6a0dad"/>
-</div>
-<br/>
-⟡ GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bhaveshpa1234&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=bhaveshpa1234&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E0D6FF&currStreakNum=E0D6FF&sideNums=E0D6FF&dates=6a6a8a"/>
+
 </div>
 <br/>
+
 ⟡ Contribution Activity (Animated, Last 12 Months)
 
 <div align="center">
@@ -242,7 +237,7 @@ Contributed across the stack during a full-stack development training engagement
 <img src="https://ghchart.rshah.org/8B5CF6/bhaveshpa1234" alt="bhaveshpa1234's github contribution grid" width="90%"/>
 </div>
 <br/>
-## ⟡ Current Focus
+⟡ Current Focus
 
 ```yaml
 Learning:
